@@ -13,21 +13,12 @@ Transformer 模型预测标准映射系统轨迹
 3. 评估模型在单步和多步预测上的表现
 4. 可视化预测结果与真实轨迹的对比
 
-## 环境要求
-
-- Python 3.7+
-- PyTorch 1.8+
-- NumPy
-- Matplotlib
-- scikit-learn
-- tqdm (可选，用于进度条)
-
 ## 安装
 
 1. 克隆本仓库：
 ```bash
-git clone https://github.com/yourusername/standard-map-transformer.git
-cd standard-map-transformer
+git clone https://github.com/lbdslbds/StandardMap-Transformer.git
+cd StandardMap-Transformer
 ```
 
 2. 安装依赖：
