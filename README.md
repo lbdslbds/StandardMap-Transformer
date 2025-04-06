@@ -83,6 +83,9 @@ BATCH_SIZE = 128    # 批量大小
 2. 训练和验证损失曲线
 3. 单条轨迹的预测对比（相位空间和时间序列）
 4. 预测误差随时间的变化
+![初始数据](https://github.com/user-attachments/assets/2567430a-409f-4ac6-9117-b395958ea60b)
+![loss](https://github.com/user-attachments/assets/4ac9f97b-b51a-4bde-a88b-34da133f6f60)
+![预测结果](https://github.com/user-attachments/assets/a3b568d9-5794-4b69-9889-1b05b942a143)
 
 ## 性能指标
 
@@ -92,6 +95,7 @@ BATCH_SIZE = 128    # 批量大小
 2. 多步预测的RMSE和相关系数
    - 对I（作用量）和θ（角度）分别评估
    - 考虑角度周期性（模2π）
+
 
 ## 扩展应用
 
