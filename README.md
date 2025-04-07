@@ -63,6 +63,7 @@ BATCH_SIZE = 128    # 批量大小
 ## 项目结构
 
 - `standard_map_transformer.py`: 主脚本，包含数据生成、模型定义、训练和评估的全部代码
+- `visualize_standard_map.py`: 轨迹可视化脚本
 - `README.md`: 项目说明文件
 - `requirements.txt`: 依赖包列表
 
@@ -77,6 +78,9 @@ BATCH_SIZE = 128    # 批量大小
 ![初始数据](https://github.com/user-attachments/assets/2567430a-409f-4ac6-9117-b395958ea60b)
 ![loss](https://github.com/user-attachments/assets/4ac9f97b-b51a-4bde-a88b-34da133f6f60)
 ![预测结果](https://github.com/user-attachments/assets/a3b568d9-5794-4b69-9889-1b05b942a143)
+
+轨迹可视化:
+![Figure_2](https://github.com/user-attachments/assets/72376995-4e8b-45cd-8819-e55264b9900d)
 
 ## 性能指标
 
