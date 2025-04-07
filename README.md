@@ -1,6 +1,5 @@
 # StandardMap-Transformer
-Transformer 模型预测标准映射系统轨迹
-# Transformer 模型预测标准映射系统轨迹
+Transformer 模型预测Chirikov标准映射系统轨迹 
 
 本项目使用基于Transformer的深度学习模型来预测标准映射（Standard Map）系统的轨迹演化。标准映射是一个重要的混沌系统模型，常用于研究哈密顿系统中的混沌现象。
 
