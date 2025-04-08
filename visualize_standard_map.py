@@ -129,8 +129,7 @@ plt.grid(True, linestyle='--', alpha=0.5) # 添加网格线 (Add grid lines with
 if num_trajectories <= 10:
      # 修改图例标签格式，避免使用下标字符 '₀'
      # Modify legend label format to avoid subscript character '₀'
-     plt.legend([f'θ_0={th:.2f}' for th in initial_thetas], loc='upper right', fontsize=9) # 使用 'θ_0' 替代 'θ₀'
+     plt.legend([fr'$\theta_0={th:.2f}$' for th in initial_thetas], loc='upper right', fontsize=9) 
 
 plt.tight_layout() # 调整布局防止标签重叠 (Adjust layout to prevent labels from overlapping)
 plt.show() # 显示图形 (Show the plot)
-
