@@ -79,7 +79,7 @@ BATCH_SIZE = 128    # 批量大小
 ![预测结果](https://github.com/user-attachments/assets/a3b568d9-5794-4b69-9889-1b05b942a143)
 
 轨迹可视化:
-![Figure_2](https://github.com/user-attachments/assets/72376995-4e8b-45cd-8819-e55264b9900d)
+![Figure_2](https://github.com/user-attachments/assets/6b8a4e2e-cb20-4949-8047-0d554b056da7)
 
 ## 性能指标
 
